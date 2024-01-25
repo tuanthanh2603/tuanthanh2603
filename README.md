@@ -36,7 +36,7 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/MySQL-282C34?logo=mongodb&logoColor=4479A1" alt="MySQL logo" title="MySQL" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/SQLite-282C34?logo=mongodb&logoColor=003B57" alt="SQLite logo" title="SQLite" height="25" /></span>
+<span><img src="https://img.shields.io/badge/SQLite-282C34?logo=sqlite&logoColor=003B57" alt="SQLite logo" title="SQLite" height="25" /></span>
 &nbsp;
 
 <br>
