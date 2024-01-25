@@ -13,7 +13,7 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/TypeScript-282C34?logo=typescript&logoColor=3178C6" alt="TypeScript logo" title="TypeScript" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/C#-282C34?logo=csharp&logoColor=512BD4" alt="C# logo" title="C#" height="25" /></span>
+<span><img src="https://img.shields.io/badge/C#-282C34?logo=c#&logoColor=512BD4" alt="C# logo" title="C#" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/.NET-282C34?logo=dotnet&logoColor=512BD4" alt=">.NET logo" title=".NET" height="25" /></span>
 &nbsp;
@@ -72,7 +72,7 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/Postman-282C34?logo=postman&logoColor=FF6C37" alt="Postman logo" title="Postman" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/Docker-282C34?logo=docker&logoColor=FF6C37" alt="docker logo" title="Docker" height="25" /></span>
+<span><img src="https://img.shields.io/badge/Docker-282C34?logo=docker&logoColor=2496ED" alt="docker logo" title="Docker" height="25" /></span>
 &nbsp;
 <br>
 <h2 align="center">🎗️ IDE 🎗️</h2>
