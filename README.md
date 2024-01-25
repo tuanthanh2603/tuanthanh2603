@@ -35,6 +35,12 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/NestJS-282C34?logo=nestjs&logoColor=E0234E" alt="NestJS logo" title="NestJS" height="25" /></span>
 &nbsp;
+<span><img src="https://img.shields.io/badge/Flutter-282C34?logo=flutter&logoColor=02569B" alt="flutter logo" title="Flutter" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Dart-282C34?logo=dart&logoColor=02569B" alt="dart logo" title="Dart" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Swift-282C34?logo=swift&logoColor=F05138" alt="swift logo" title="Swift" height="25" /></span>
+&nbsp;
 
 
 
