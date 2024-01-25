@@ -38,6 +38,8 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/SQLite-282C34?logo=sqlite&logoColor=003B57" alt="SQLite logo" title="SQLite" height="25" /></span>
 &nbsp;
+<span><img src="https://img.shields.io/badge/SQLServer-282C34?logo=microsoftsqlserver&logoColor=CC2927" alt="SQL Server logo" title="SQL Server" height="25" /></span>
+&nbsp;
 
 <br>
 <h2 align="center">🛠 Tools 🛠</h2>
