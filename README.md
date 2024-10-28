@@ -76,8 +76,7 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/Postman-282C34?logo=postman&logoColor=FF6C37" alt="Postman logo" title="Postman" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/Docker-282C34?logo=docker&logoColor=2496ED" alt="docker logo" title="Docker" height="25" /></span>
-&nbsp;
+
 <br>
 <h2 align="center">🎗️ IDE 🎗️</h2>
 <br>
